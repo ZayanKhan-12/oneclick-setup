@@ -3,7 +3,7 @@ name = "oneclicksetup"
 version = "0.1.0"
 description = "A one-click environment setup CLI."
 authors = [
-  { name="Your Name", email="you@example.com" }
+  { name="Zayan Khan, email="khanzayan_123@hotmail.com" }
 ]
 readme = "README.md"
 keywords = ["cli", "devops", "setup"]
