@@ -1,0 +1,14 @@
+# Ignore virtual environment
+venv/
+
+# Ignore environment files
+.env
+
+# Ignore build directories
+dist/
+build/
+*.egg-info
+
+# OS-specific files
+.DS_Store
+
